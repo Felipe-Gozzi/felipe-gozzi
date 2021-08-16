@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="./Wave.gif" width="30px"> Oi eu sou o Felipe Gozzi <img src="./Wave.gif" width="30px"> </h1>
+<h1 align="center"> <img src="./Wave.gif" width="30px"> Oi, eu sou o Felipe <img src="./Wave.gif" width="30px"> </h1>
 <h3 align="center">A Student who just started programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipe-gozzi&color=green" alt="felipe-gozzi" /> </p>
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **felipegozzi16@gmail.com**
 
-- ⚡ Fun fact: **I'm an Electrical Engineer**
+- ⚡ Curious fact: **I'm an Electrical Engineer**
 
 <p align="right">
 <img src="https://github-readme-stats.vercel.app/api?username=felipe-gozzi&show_icons=true" alt="felipe-gozzi"/> 
