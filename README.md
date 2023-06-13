@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="./Wave.gif" width="30px"> Oi, eu sou o Felipe <img src="./Wave.gif" width="30px"> </h1>
+<h1 align="center"> <img src="./Wave.gif" width="30px"> Hi, i am Felipe <img src="./Wave.gif" width="30px"> </h1>
 <h3 align="center">A Developer who loves to code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipe-gozzi&color=green" alt="felipe-gozzi" /> </p>
