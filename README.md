@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipe-gozzi&color=green" alt="felipe-gozzi" /> </p>
 
-- 🔭 I’m currently working on Ilumisol Energia Solar
+- 🔭 I’m currently working on Copacol - Cooperativa Agroindustrial Consolata
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP
+- 🌱 I’m currently learning SAP ABAP, SAP UI5, SAP FIORI
 
 - 💬 Ask me about Photovoltaic Energy
 
